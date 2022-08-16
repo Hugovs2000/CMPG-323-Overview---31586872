@@ -9,8 +9,11 @@
 <img src="RepoDiagram.png" alt="Repo Diagram">
 
 ## Branching Strategies:
-...
+- For each project a Main branch will be used to host the most current version.
+- There will be a Develop branch which will be used to make changes.
+- The two branches will be merged to form the most current version.
+
 ## .gitignore file uses:
-...
+
 ## Storage of credentials and sensitive information:
 ...
