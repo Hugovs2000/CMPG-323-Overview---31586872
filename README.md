@@ -24,3 +24,4 @@ text document which will be specified in the .gitignore file and therefore be
 hidden from other users.
 
 Anon. 2022. Ignoring Files. https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files Date of access: 15 August 2022.
+Haddad. 2022. What Are the Best Git Branching Strategies. https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase Date of access: 14 August 2022.
