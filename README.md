@@ -6,7 +6,7 @@
 - Project 4: https://github.com/Hugovs2000/CMPG-323-Project-4---31586872.git
 - Project 5: https://github.com/Hugovs2000/CMPG-323-Project-5---31586872.git
 
-...diagram
+<img src="RepoDiagram.png" alt="Repo Diagram">
 ## Branching Strategies:
 ...
 ## .gitignore file uses:
