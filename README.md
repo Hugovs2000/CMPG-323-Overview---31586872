@@ -13,6 +13,8 @@
 - There will be a Develop branch which will be used to make changes.
 - The two branches will be merged to form the most current version.
 
+<img src="Branching.svg" alt="Branching Diagram">
+
 ## .gitignore file uses:
 The .gitignore file will be used to specify which documents will be ignored
 by Git making it possible to have a text document which holds sensitive
@@ -24,6 +26,8 @@ text document which will be specified in the .gitignore file and therefore be
 hidden from other users.
 
 ## Reference List:
+Anon. 2022. Gitflow Workflow. https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow Date of access: 14 August 2022.
+
 Anon. 2022. Ignoring Files. https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files Date of access: 15 August 2022.
 
 Haddad. 2022. What Are the Best Git Branching Strategies. https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase Date of access: 14 August 2022.
