@@ -21,14 +21,16 @@
 <img src="Branching.svg" alt="Branching Diagram">
 
 ## .gitignore file uses:
-The .gitignore file will be used to specify which documents will be ignored
-by Git making it possible to have a text document which holds sensitive
-information to go unseen for example.
+### Project 2: 
+
+The .gitignore file was used to ignore the appsettings.json file since it contains the connection string to the database used which also contains the username and password of the connection.
+
+### Project 3: 
+
+The .gitignore file is in the visual studio iteration where it ignores the necessary visual studio files and it is also altered to ignore the appsettings.json file which contains the connection string of the database used.
 
 ## Storage of credentials and sensitive information:
-Credentials and sensitive information can be stored in any form for example a
-text document which will be specified in the .gitignore file and therefore be 
-hidden from other users.
+Credentials and sensitive information will be stored by encrypting the password when storing it in the database and decrypting it when needed. Other sensitive information can be added onto the .gitignore to be ignored when committing the work.
 
 ## Reference List:
 ### Project 1:
