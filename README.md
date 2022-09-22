@@ -31,7 +31,7 @@ text document which will be specified in the .gitignore file and therefore be
 hidden from other users.
 
 ## Reference List:
-# Project 1:
+### Project 1:
 
 Anon. 2016. A Practical Guide to Using .gitignore. https://www.pluralsight.com/blog/software-development/a-practical-guide-to-using--gitignore Date of access: 4 Sept. 2022.
 
@@ -39,7 +39,7 @@ Anon. 2022. Ignoring Files. https://docs.github.com/en/get-started/getting-start
 
 Haddad. 2022. What Are the Best Git Branching Strategies. https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase Date of access: 14 August 2022
 
-# Project 2:
+### Project 2:
 
 Anon. 2022. Gitflow Workflow. https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow Date of access: 14 August 2022.
 
