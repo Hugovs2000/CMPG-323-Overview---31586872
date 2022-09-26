@@ -5,6 +5,7 @@
 - Contains the files for the API
 - More detail provided in project 2 repo README
 ### Project 3: https://github.com/Hugovs2000/CMPG-323-Project-3---31586872.git
+- Contains description of Project 3, as well as the link to the repository that contains the code.
 - More detail provided in project 3 repo README
 ### Project 4: https://github.com/Hugovs2000/CMPG-323-Project-4---31586872.git
 - More detail provided in project 4 repo README
@@ -55,3 +56,17 @@ Nolle, T. 2021. The 5 essential HTTP methods in RESTful API development, SearchA
 smn.tino. 2018. Using .gitignore file to hide appsettings.json does not actually hide it. https://stackoverflow.com/questions/49930776/using-gitignore-file-to-hide-appsettings-json-does-not-actually-hide-it
 
 W3Schools. N/D. HTML Images. https://www.w3schools.com/html/html_images.asp Date of access: 6 Sept. 2022.
+
+### Project 3:
+
+WilliamDAssafMSFT. 2022. Create Tables (Database Engine) - SQL Server | Microsoft Learn. https://learn.microsoft.com/en-us/sql/relational-databases/tables/create-tables-database-engine?view=sql-server-ver16. Date of access: 16 September 2022.
+
+SQL UNIQUEIDENTIFIER Data Type - Dofactory. 2022. SQL UNIQUEIDENTIFIER Data Type - Dofactory. https://www.dofactory.com/sql/uniqueidentifier. Date of access: 17 September 2022.
+
+Dot Net Tutorials. 2022. Generic Repository Pattern in C# with Examples - Dot Net Tutorials. https://dotnettutorials.net/lesson/generic-repository-pattern-csharp-mvc/. Date of access: 20 September 2022.
+
+Antti K. Koskela. 2022. How to fix "No database provider has been configured for this DbContext" in EF Core. https://www.koskila.net/fixing-no-database-provider-has-been-configured-for-this-dbcontext-in-entity-framework-core/. Date of access: 22 September 2022.
+
+Repository Pattern In C# . 2022. Repository Pattern In C# . https://www.linkedin.com/pulse/repository-pattern-c-pawan-verma/. Date of access: 23 September 2022.
+
+tdykstra. 2022. Implementing the Repository and Unit of Work Patterns in an ASP.NET MVC Application (9 of 10) | Microsoft Learn. https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application. Date of access: 25 September 2022.
