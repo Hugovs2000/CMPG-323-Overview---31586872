@@ -8,6 +8,7 @@
 - Contains description of Project 3, as well as the link to the repository that contains the code.
 - More detail provided in project 3 repo README
 ### Project 4: https://github.com/Hugovs2000/CMPG-323-Project-4---31586872.git
+- Contains the files for the UiPath User Acceptance Testing and the link to the Web App used.
 - More detail provided in project 4 repo README
 ### Project 5: https://github.com/Hugovs2000/CMPG-323-Project-5---31586872.git
 - More detail provided in project 5 repo README
@@ -29,6 +30,10 @@ The .gitignore file was used to ignore the appsettings.json file since it contai
 ### Project 3: 
 
 The .gitignore file is in the visual studio iteration where it ignores the necessary visual studio files and it is also altered to ignore the appsettings.json file which contains the connection string of the database used.
+
+### Project 4:
+
+No .gitignore file was used for this project as no sensitive information had to be stored.
 
 ## Storage of credentials and sensitive information:
 Credentials and sensitive information will be stored by encrypting the password when storing it in the database and decrypting it when needed. Other sensitive information can be added onto the .gitignore to be ignored when committing the work.
@@ -70,3 +75,25 @@ Antti K. Koskela. 2022. How to fix "No database provider has been configured for
 Repository Pattern In C# . 2022. Repository Pattern In C# . https://www.linkedin.com/pulse/repository-pattern-c-pawan-verma/. Date of access: 23 September 2022.
 
 tdykstra. 2022. Implementing the Repository and Unit of Work Patterns in an ASP.NET MVC Application (9 of 10) | Microsoft Learn. https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application. Date of access: 25 September 2022.
+
+### Project 4:
+
+Boboc, M. n.d. Excel Automation Tutorial - DataTables Automation | UiPath. [online] www.uipath.com. Available at: https://www.uipath.com/learning/video-tutorials/excel-datatables-automation. Date of access: 23 October 2022.
+
+cloud.contentraven.com. n.d. Introduction to RPA and Automation. https://academy.uipath.com/courses/introduction-to-rpa-and-automation. Date of access: 24 October 2022.
+
+RPA Learners. 2021. How to update a row item in a DataTable using UiPath. https://rpalearners.com/how-to-update-a-row-item-in-a-datatable-using-uipath/. Date of access: 22 October 2022.
+
+UiPath Activities. n.d. Remove Data Row/Column. https://docs.uipath.com/activities/docs/remove-data-row-column. Date of access: 24 October 2022.
+
+UiPath Community Forum. 2017. Word Append Text -> new page. https://forum.uipath.com/t/how-to-pass-datatable-as-argument-to-another-workflow/14332. Date of access: 23 October 2022. 
+
+UiPath Community Forum. 2018. How to click on an Element (Image or Button) next to a particular Text element. https://forum.uipath.com/t/how-to-click-on-an-element-image-or-button-next-to-a-particular-text-element/51292. Date of access: 21 October 2022.
+
+UiPath Community Forum. 2020. How to Select an exact Option from a drop down list. https://forum.uipath.com/t/how-to-select-an-exact-option-from-a-drop-down-list/194419. Date of access: 25 October 2022. 
+
+UiPath Community Forum. 2020. Write in specific column based on a row. https://forum.uipath.com/t/write-in-specific-column-based-on-a-row/215687. Date of access: 24 October 2022. 
+
+UiPath Community Forum. 2021. Data Scraping and Screen Scraping gone? [online] Available at: https://forum.uipath.com/t/data-scraping-and-screen-scraping-gone/297745/2. Date of access: 24 October 2022.
+
+UiPath Studio. n.d. UI Automation. https://docs.uipath.com/studio/docs/ui-automation. Date of access: 25 October 2022.
