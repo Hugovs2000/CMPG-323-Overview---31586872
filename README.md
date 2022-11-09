@@ -2,8 +2,7 @@
 
 ## Repositories for Projects:
 ### Project 2: https://github.com/Hugovs2000/CMPG-323-Project-2---31586872.git
-- Contains the files for the API
-- More detail provided in project 2 repo README
+This repo contains the files of the connectedOffice API solution which is for CMPG323 Project 2. The API is hosted on Azure using an API management service and is connected to a database hosted on Azure as well. The purpose of the API is to manipulate the three tables (categories, devices, and zones) using HTTP methods implemented with the swaggerUI. The appsettings.json file provided does not contain the correct connection string as it contains sensitive information. Your own connection string must be entered if you wish to use the API locally.
 ### Project 3: https://github.com/Hugovs2000/CMPG-323-Project-3---31586872.git
 - Contains description of Project 3, as well as the link to the repository that contains the code.
 - More detail provided in project 3 repo README
