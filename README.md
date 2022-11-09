@@ -4,13 +4,11 @@
 ### Project 2: https://github.com/Hugovs2000/CMPG-323-Project-2---31586872.git
 This repo contains the files of the connectedOffice API solution which is for CMPG323 Project 2. The API is hosted on Azure using an API management service and is connected to a database hosted on Azure as well. The purpose of the API is to manipulate the three tables (categories, devices, and zones) using HTTP methods implemented with the swaggerUI. The appsettings.json file provided does not contain the correct connection string as it contains sensitive information. Your own connection string must be entered if you wish to use the API locally.
 ### Project 3: https://github.com/Hugovs2000/CMPG-323-Project-3---31586872.git
-- Contains description of Project 3, as well as the link to the repository that contains the code.
-- More detail provided in project 3 repo README
+This repository contains the link to the forked repository provided by the lecturer, as well as the link to use the Web App. The aim of the project was to take the given repository and implement a Repository Pattern.
+
+I chose to implement the Tier 2 strategy which includes creating a Generic Repository class and interface which contains all the functional code, like the Get and GetById functions for example, and creating a repository and interface for each controller that pulls from the generic repository.
 ### Project 4: https://github.com/Hugovs2000/CMPG-323-Project-4---31586872.git
-- Contains the files for the UiPath User Acceptance Testing and the link to the Web App used.
-- More detail provided in project 4 repo README
-### Project 5: https://github.com/Hugovs2000/CMPG-323-Project-5---31586872.git
-- More detail provided in project 5 repo README
+This repository contains the files of a UiPath Studio Community automation that tests the CRUD functionality of Zones, Categories, and Devices using the following web page: https://connectedoffice-devicemanagement.azurewebsites.net/ and web app provided by Dr. Jacqui Muller: https://github.com/JacquiM. The automation itself involves creating the provided Categories, Zones and Devices provided on the excel sheet and then updating and deleting those created elements. If the program runs successfully, it updates the excel sheet on the test results tab to state which element was successful.
 
 <img src="RepoDiagram.png" alt="Repo Diagram">
 
